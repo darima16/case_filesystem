@@ -1,3 +1,9 @@
+"""Case-study#2
+Developers:
+Rashidova A. (61%), Zhambaeva D. (59%), Ganbat S. (56%)
+"""
+
+
 import os
 import os.path
 from rulocal import *
